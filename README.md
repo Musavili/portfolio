@@ -19,8 +19,8 @@
 ⚡ Fast and SEO Optimized
 
 To view a demo example, **[Click Here](https://devfolio.js.org)**\
-To view a live example, **[Click Here](https://anilseervi.github.io/Portfolio/)**\
-To view live example repo, **[Click Here](https://github.com/AnilSeervi/Portfolio/)**
+To view a live example, **[Click Here](https://musavili.github.io/portfolio/)**\
+To view live example repo, **[Click Here](https://github.com/Musavili/Portfolio/)**
 
 ## Getting Started 🚀
 
